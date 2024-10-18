@@ -1,0 +1,31 @@
+{
+  "home_page": {
+    "welcome_message": "वार्षिक रिपोर्ट पोर्टल में आपका स्वागत है",
+    "introduction_text": "हमारे व्यापक और उपयोगकर्ता के अनुकूल प्लेटफ़ॉर्म के साथ अपने संस्थान की वार्षिक रिपोर्टिंग प्रक्रिया को सुव्यवस्थित करें।",
+    "recent_reports_title": "हालिया रिपोर्ट और अपडेट",
+    "report_1_title": "वार्षिक रिपोर्ट 2023",
+    "report_1_description": "2023 के दौरान हमारी उपलब्धियों और प्रगति का एक व्यापक अवलोकन।",
+    "report_2_title": "वित्तीय अवलोकन 2023",
+    "report_2_description": "वित्तीय वर्ष 2023 के विस्तृत वित्तीय विवरण और विश्लेषण।",
+    "report_3_title": "अनुसंधान हाइलाइट्स 2023",
+    "report_3_description": "हमारे संकाय और छात्रों द्वारा प्रमुख अनुसंधान निष्कर्ष और प्रकाशन।",
+    "view_report_link": "रिपोर्ट देखें",
+    "quick_links_title": "त्वरित लिंक",
+    "dashboard_link_text": "डैशबोर्ड पर जाएं",
+    "data_entry_link_text": "डेटा दर्ज करें",
+    "view_all_reports_link_text": "सभी रिपोर्ट देखें"
+  },
+  "footer": {
+    "quick_links_title": "त्वरित लिंक",
+    "privacy_policy_text": "गोपनीयता नीति",
+    "terms_and_conditions_text": "नियम और शर्तें",
+    "accessibility_statement_text": "पहुंच विवरण",
+    "about_us_text": "हमारे बारे में",
+    "contact_us_title": "हमसे संपर्क करें",
+    "contact_us_description": "यदि आपके कोई प्रश्न हैं या समर्थन की आवश्यकता है, तो कृपया हमसे संपर्क करें:",
+    "support_email": "support@institution.com",
+    "footer_bottom_text": "© 2024 वार्षिक रिपोर्ट पोर्टल। सभी अधिकार सुरक्षित।"
+  }
+}
+
+  

@@ -1,0 +1,29 @@
+{
+  "home_page": {
+    "welcome_message": "वार्षिक अहवाल पोर्टलमध्ये आपले स्वागत आहे",
+    "introduction_text": "आमच्या व्यापक आणि वापरकर्ता-अनुकूल प्लॅटफॉर्मसह आपल्या संस्थेच्या वार्षिक अहवाल प्रक्रियेला सुव्यवस्थित करा.",
+    "recent_reports_title": "अलीकडील अहवाल आणि अद्यतने",
+    "report_1_title": "वार्षिक अहवाल 2023",
+    "report_1_description": "वर्ष 2023 दरम्यान आमच्या कामगिरी आणि प्रगतीचा व्यापक आढावा.",
+    "report_2_title": "आर्थिक आढावा 2023",
+    "report_2_description": "वित्तीय वर्ष 2023 चे तपशीलवार आर्थिक विधान आणि विश्लेषण.",
+    "report_3_title": "संशोधन हायलाइट्स 2023",
+    "report_3_description": "आमच्या संकाय आणि विद्यार्थ्यांकडून प्रमुख संशोधन निष्कर्ष आणि प्रकाशने.",
+    "view_report_link": "अहवाल पहा",
+    "quick_links_title": "द्रुत दुवे",
+    "dashboard_link_text": "डॅशबोर्डवर जा",
+    "data_entry_link_text": "डेटा प्रविष्ट करा",
+    "view_all_reports_link_text": "सर्व अहवाल पहा"
+  },
+  "footer": {
+    "quick_links_title": "द्रुत दुवे",
+    "privacy_policy_text": "गोपनीयता धोरण",
+    "terms_and_conditions_text": "अटी आणि शर्ता",
+    "accessibility_statement_text": "अक्सेसिबिलिटी स्टेटमेंट",
+    "about_us_text": "आमच्या बद्दल",
+    "contact_us_title": "आमच्याशी संपर्क साधा",
+    "contact_us_description": "तुम्हाला काही प्रश्न असतील किंवा समर्थनाची आवश्यकता असेल तर कृपया आमच्याशी संपर्क साधा:",
+    "support_email": "support@institution.com",
+    "footer_bottom_text": "© 2024 वार्षिक अहवाल पोर्टल. सर्व हक्क राखीव."
+  }
+}

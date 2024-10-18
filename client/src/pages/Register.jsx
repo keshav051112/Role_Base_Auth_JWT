@@ -32,7 +32,7 @@ export default function Register() {
                 onChange={(e)=> setName(e.target.value)} name="" id="username" />
                </div>
                <div className='input-group'>
-                <label htmlFor="email">Emaiil</label>
+                <label htmlFor="email">Email</label>
                 <input type="email" name="" onChange={(e)=>setEmail(e.target.value)} id="email" />
                </div>
                <div className='input-group'>

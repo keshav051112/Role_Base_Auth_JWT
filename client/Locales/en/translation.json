@@ -1,0 +1,30 @@
+{
+    "home_page": {
+      "welcome_message": "Welcome to the Annual Report Portal",
+      "introduction_text": "Streamline your institute's annual reporting process with our comprehensive and user-friendly platform.",
+      "recent_reports_title": "Recent Reports and Updates",
+      "report_1_title": "Annual Report 2023",
+      "report_1_description": "A comprehensive overview of our achievements and progress throughout the year 2023.",
+      "report_2_title": "Financial Overview 2023",
+      "report_2_description": "Detailed financial statements and analysis of the fiscal year 2023.",
+      "report_3_title": "Research Highlights 2023",
+      "report_3_description": "Key research findings and publications from our faculty and students.",
+      "view_report_link": "View Report",
+      "quick_links_title": "Quick Links",
+      "dashboard_link_text": "Go to Dashboard",
+      "data_entry_link_text": "Enter Data",
+      "view_all_reports_link_text": "View All Reports"
+    },
+    "footer": {
+      "quick_links_title": "Quick Links",
+      "privacy_policy_text": "Privacy Policy",
+      "terms_and_conditions_text": "Terms and Conditions",
+      "accessibility_statement_text": "Accessibility Statement",
+      "about_us_text": "About Us",
+      "contact_us_title": "Contact Us",
+      "contact_us_description": "If you have any questions or need support, please contact us at:",
+      "support_email": "support@institution.com",
+      "footer_bottom_text": "© 2024 Annual Report Portal. All rights reserved."
+    }
+  }
+  
